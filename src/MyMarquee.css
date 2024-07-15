@@ -1,0 +1,25 @@
+.marquee-card {
+    width: 24.5em;
+    padding: 1.5em;
+    border-radius: 10px;
+    background-color: rgb(161 183 228);
+}
+
+.marquee-card .card-content {
+    text-align: left;
+    line-height: 1;
+}
+
+.marquee-card .card-title {
+    color: #303b55;
+    font-size: 0.9em;
+    font-weight: bold;
+    margin-bottom: 0.8em;
+}
+
+.marquee-card .card-desc {
+    color: #415073;
+    font-size: 0.85em;
+    line-height: 1.2;
+    font-weight: 600;
+}
